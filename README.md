@@ -16,8 +16,8 @@ Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, ta
         <li>Abrir a pasta no VS Code, ou qualquer IDE da sua preferência,<br>pode abrir até no bloco de notas
         do seu computador</li>
         <li>Abrir a pasta (script.js)</li>
-        <li>Escrever <strong>var hora =</strong> aqui você coloca a hora que quiser. Ex: 6, 12, 24, etc.
-        <img src="img/exemplo.png" alt="exemplo de como escrever a hora"><br>
+        <li>Escrever <strong>var hora =</strong> aqui você coloca a hora que quiser. Ex: 6, 12, 24, etc.<br>
+        Se querer ver das 16 horas:<img src="img/exemplo.png" alt="exemplo de como escrever a hora"><br>
             abaixo de todos os 'var' que você vai ver, no começo da tela que aparecer , quando abrir a pasta script.js
             <img src="img/var hora = .png" alt="local para testar"></li>
         <li>Daí, voce vai abrir no seu navegador o index.html (um dos arquivos que você baixou)</li>
