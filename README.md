@@ -8,7 +8,7 @@ Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, ta
 É uma página 100% responsiva para celular, desktop, notebook, tablet.
 </p>
 
-![Badge](https://img.shields.io/static/v1?label=Training&message=JavaScript&color=#f1d81f&style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/static/v1?label=Training&message=JavaScript&color=yellow&style=for-the-badge&logo=ghost)
 
 ## Como testar
 <p>Por padrão, o sistema vai pegar a hora do seu computador, logo vai mostrar a tela correspondente com uma cor de fundo que faça mais sentindo para aquele horário. Porém, se quiser testar todos os tipos de horários: 
