@@ -14,7 +14,8 @@ Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, ta
         <li>Baixar o projeto</li>
         <li>Abrir a pasta (script.js)</li>
         <li>Escrever <strong>var hora =</strong> aqui você coloca a hora que quiser. Ex: 6, 12, 24, etc.<br>
-            abaixo de todos os 'var' que você vai ver, no começo da tela que aparecer , quando abrir a pasta script.js</li>
+            abaixo de todos os 'var' que você vai ver, no começo da tela que aparecer , quando abrir a pasta script.js
+            <img src="img/var hora = .png" width="150" height="90" alt="exemplo de como mudar a hora"></li>
         <li>Daí, voce vai abrir no seu navegador o index.html (um dos arquivos que você baixou)</li>
         <li>E no navegador, vai mostra uma tela de acordo com a hora que você colocou, no var hora = seu horário</li>
         <li>Para ir testando outras horas, na mesma linha que você escreveu, escreva qualquer hora do mesmo jeito que eu mostrei no tópico 3, salve clicando 'Ctrl + s' e atualize a página web clicando 'F5'</li>
