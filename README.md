@@ -23,7 +23,7 @@ Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, ta
             abaixo de todos os 'var' que você vai ver, no começo da tela que aparecer , quando abrir a pasta script.js
             <img src="img/var hora = .png" alt="local para testar"></li>
         <li>Daí, voce abre no seu navegador o index.html (um dos arquivos que você baixou)</li>
-        <li>E no navegador, vai mostra uma tela de acordo com a hora que você colocou, <strong>no var hora = seu </strong>horário</li>
+        <li>E no navegador, vai mostra uma tela de acordo com a hora que você colocou, no<strong> var hora = seu </strong>horário</li>
         <li>Para ir testando outras horas, na mesma linha que você escreveu, escreva qualquer hora do mesmo jeito que eu mostrei no tópico 3, salve clicando 'Ctrl + s' e atualize a página web clicando 'F5'</li>
         <li>Agora, para voltar ao normal (que é usando as horas do seu computador), basta apagar <STRONG>APENAS</STRONG> a linha que você escreveu;<br>Salvar o projeto clicando 'Ctrl + s';<br>
         E atualizar a página no seu navegador (google Chorme, Brave, Oracle, Firefox, etc.)</li>
