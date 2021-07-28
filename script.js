@@ -7,7 +7,6 @@ function carregar(){
     var data = new Date()//as variáveis so funcionam se esse também for criada
     var hora = data.getHours() //hora atual do seu computador
     var min = data.getMinutes() //pega os minutos atuias do seu computador
-
     
     //se as horas do seu computador for maior ou igual à 5h, e menor que que 12h, vai fazer este comando falando bom dia
     if(hora >= 5 && hora < 12){
