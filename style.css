@@ -111,9 +111,18 @@ body{
         width: 300px;
         height: 300px;
     }
-}@media (max-width: 375px){
+}@media (max-width: 397px){
     .img{
-        width: 150px;   
-        height: 150px;
+        width: 300px;   
+        height: 300px;
+    }
+}@media (max-width: 403px){
+    .img{
+        width: 200px;   
+        height: 200px;
+    }
+}@media (max-width: 260px){
+    .img{
+        display: none;
     }
 }
