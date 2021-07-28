@@ -4,7 +4,7 @@
 
 <h3>Demostração</h3>
 <p>O meu projeto por padrão pega o horário da sua máquina e muda a tela do navegador de acordo.<br>
-Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, tarde, noite e madrugada)<br>
+Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, tarde, noite e madrugada).<br>
 É uma página 100% responsiva para celular, desktop, notebook, tablet.
 </p>
 
@@ -17,15 +17,15 @@ Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, ta
         <li>Baixar o projeto</li>
         <li>Abrir a pasta no VS Code, ou qualquer IDE da sua preferência,<br>pode abrir até no bloco de notas
         do seu computador</li>
-        <li>Abrir a pasta (script.js)</li>
+        <li>Abrir o arquivo (script.js)</li>
         <li>Escrever <strong>var hora =</strong> aqui você coloca a hora que quiser. Ex: 6, 12, 24, etc.<br>
         <strong>Se querer ver das 16 horas:</strong> <img src="img/exemplo.png" alt="exemplo de como escrever a hora"><br>
             abaixo de todos os 'var' que você vai ver, no começo da tela que aparecer , quando abrir a pasta script.js
             <img src="img/var hora = .png" alt="local para testar"></li>
-        <li>Daí, voce vai abrir no seu navegador o index.html (um dos arquivos que você baixou)</li>
-        <li>E no navegador, vai mostra uma tela de acordo com a hora que você colocou, no var hora = seu horário</li>
+        <li>Daí, voce abre no seu navegador o index.html (um dos arquivos que você baixou)</li>
+        <li>E no navegador, vai mostra uma tela de acordo com a hora que você colocou, <strong>no var hora = seu </strong>horário</li>
         <li>Para ir testando outras horas, na mesma linha que você escreveu, escreva qualquer hora do mesmo jeito que eu mostrei no tópico 3, salve clicando 'Ctrl + s' e atualize a página web clicando 'F5'</li>
-        <li>Agora, seu quiser que volte ao normal (que é usando as horas do seu computador), basta apagar <STRONG>APENAS</STRONG> a linha que você escreveu;<br>Salvar o projeto clicando 'Ctrl + s';<br>
+        <li>Agora, para voltar ao normal (que é usando as horas do seu computador), basta apagar <STRONG>APENAS</STRONG> a linha que você escreveu;<br>Salvar o projeto clicando 'Ctrl + s';<br>
         E atualizar a página no seu navegador (google Chorme, Brave, Oracle, Firefox, etc.)</li>
     </ul>
 </p>
