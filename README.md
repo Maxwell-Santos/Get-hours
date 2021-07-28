@@ -35,4 +35,4 @@ Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, ta
  <a href="https://github.com/Maxwell-Santos" target="_blank">GitHub</a>
 </p>
 
-![Badge](https://img.shields.io/static/v1?label=Training&message=JavaScript&color=yellow&style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/static/v1?label=Training&message=JavaScript&color=rgb241,261,31&style=for-the-badge&logo=ghost)
