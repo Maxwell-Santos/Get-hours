@@ -7,6 +7,7 @@
 Eu cirei quatro telas diferente que podem aparecer no seu computador (manhã, tarde, noite e madrugada)<br>
 É uma página 100% responsiva para celular, desktop, notebook, tablet.
 </p>
+
 ![Badge](https://img.shields.io/static/v1?label=Training&message=JavaScript&color=#f1d81f&style=for-the-badge&logo=ghost)
 
 ## Como testar
